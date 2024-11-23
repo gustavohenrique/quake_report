@@ -10,6 +10,8 @@ Faz o parse do arquivo de log `qgames.log` e produz um relatório no formato JSO
 - Ranking de jogadores baseado no número de kills
 - Relatório de mortes agrupadas por causa da morte
 
+Um exemplo do relatório gerado pode ser visto no arquivo [report.json](report.json).
+
 **Atenção:** Nenhuma validação está sendo feita. Confiando totalmente no formato do arquivo.
 
 ## Funcionalidades
